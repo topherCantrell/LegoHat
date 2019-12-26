@@ -9,6 +9,9 @@ https://www.amazon.com/gp/product/B00069PFKK
 Motors:<br>
 https://www.amazon.com/gp/product/B00VUC7MQW
 
+Motor Controller:<br>
+https://www.adafruit.com/product/4280
+
 Gears:<br>
 https://www.amazon.com/gp/product/B01LVXYZ9L
 
