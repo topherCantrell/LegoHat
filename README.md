@@ -1,8 +1,20 @@
 # Lego Hat
 For FLL Events
 
+# Parts
+
 Foam:<br>
-https://www.amazon.com/gp/product/B00069PFKK/ref=ppx_yo_dt_b_asin_title_o00_s00
+https://www.amazon.com/gp/product/B00069PFKK
+
+Motors:<br>
+https://www.amazon.com/gp/product/B00VUC7MQW
+
+Gears:<br>
+https://www.amazon.com/gp/product/B01LVXYZ9L
+
+Small Displays:<br>
+https://www.ebay.com/itm/2-4-240x320-SPI-TFT-LCD-Serial-Port-Module-3-3V-PCB-Adapter-SD-ILI9341/321496984303
+
 
 # Construction
 
