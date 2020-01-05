@@ -16,10 +16,9 @@ Gears:<br>
 https://www.amazon.com/gp/product/B01LVXYZ9L
 
 Small Displays:<br>
-https://www.ebay.com/itm/2-4-240x320-SPI-TFT-LCD-Serial-Port-Module-3-3V-PCB-Adapter-SD-ILI9341/321496984303
+2.2" TFT LCD Display Module Board 240x320 For ILI9341 51 AVR STM32 ARM Z2L8
 
-https://learn.adafruit.com/micropython-hardware-ili9341-tft-and-featherwing/tdicola-overview
-
+https://www.amazon.com/HiLetgo-4-Wire-Display-240x320-ILI9341/dp/B01CZL6QIQ
 
 # Construction
 
@@ -37,3 +36,8 @@ kit.motor1.throttle = 1.0
 kit.motor3.throttle = 1.0
 
 ```
+
+# Display
+
+https://learn.adafruit.com/micropython-hardware-ili9341-tft-and-featherwing/tdicola-overview
+
