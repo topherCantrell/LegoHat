@@ -49,7 +49,7 @@ kit.motor3.throttle = 1.0
 
 ```
 
-# Display
+# Displays
 
 https://learn.adafruit.com/micropython-hardware-ili9341-tft-and-featherwing/tdicola-overview
 
