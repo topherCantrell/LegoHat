@@ -20,6 +20,18 @@ Small Displays:<br>
 
 https://www.amazon.com/HiLetgo-4-Wire-Display-240x320-ILI9341/dp/B01CZL6QIQ
 
+Mat:<br>
+https://www.amazon.com/gp/product/B00U7U1SHW<br>
+![](art/mat.jpg)
+
+Lego Tape:<br>
+https://www.amazon.com/gp/product/B07L34F5VY<br>
+![](art/tape.jpg)
+
+Technic Parts:<br>
+https://www.amazon.com/gp/product/B07TJTTTY5<br>
+![](art/technic.jpg)
+
 # Construction
 
 ![](art/hat-foam1.jpg)
