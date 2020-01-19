@@ -55,6 +55,10 @@ https://learn.adafruit.com/micropython-hardware-ili9341-tft-and-featherwing/tdic
 
 ![](art/spi.jpg)
 
+https://www.youtube.com/watch?v=3vuK5w8o8dg
+
+![](art/spiraspberry.jpg)
+
 # Spinning Radar
 
 ![](art/radar.jpg)
