@@ -38,3 +38,5 @@ kit.motor3.throttle = 1.0
 ![](art/game.jpg)
 
 ![](art/motors.jpg)
+
+![](art/gears.jpg)
