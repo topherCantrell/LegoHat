@@ -1,11 +1,3 @@
-![](art/IMG-1271.jpg)
-
-![](art/IMG-1279.jpg)
-
-![](art/IMG-1295.jpg)
-
-![](art/IMG-1281.jpg)
-
 ![](art/IMG-1355.jpg) 
 ![](art/IMG-1356.jpg)
 ![](art/IMG-1357.jpg)
@@ -22,3 +14,8 @@
 ![](art/IMG-1368.jpg)
 ![](art/IMG-1370.jpg)
 ![](art/IMG-1371.jpg)
+
+![](art/IMG-1271.jpg)
+![](art/IMG-1279.jpg)
+![](art/IMG-1295.jpg)
+![](art/IMG-1281.jpg)
