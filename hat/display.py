@@ -16,13 +16,13 @@ COLOR_MASK = [
 
 class Display:
 
-    def __init__(self,i2c,address):
-        self._buffer = [0]*16
+    def __init__(self, i2c, address):
+        self._buffer = [0]*16 # Pixel buffer
         self._i2c = i2c
         self._address = address
-        self._i2c.writeto(address, bytes([0x21]) ) # 0010_xxx1 Turn the oscillator on
-        self._i2c.writeto(address, bytes([239]) ) # 1110_1111 Full brightness
-        self._i2c.writeto(address, bytes([0b10000001]) ) # 1000_x001 Blinking off, display on        
+        self._i2c.writeto(address, bytes([0x21]) ) # Turn the oscillator on
+        self._i2c.writeto(address, bytes([0xEF]) ) # Full brightness
+        self._i2c.writeto(address, bytes([0x81]) ) # Blinking off, display on        
         self.clear()
         self.refresh()        
 

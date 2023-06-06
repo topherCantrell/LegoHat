@@ -29,6 +29,8 @@ kit.motor3.throttle = 1.0
 
 ```
 
+![](art/Figure1_Schematic.jpg)
+
 ![](art/side.jpg)
 
 ![](art/top.jpg)

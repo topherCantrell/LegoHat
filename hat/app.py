@@ -23,5 +23,3 @@ mot_side.start()
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(21,GPIO.IN,pull_up_down=GPIO.PUD_UP)
 GPIO.add_event_detect(21,GPIO.FALLING, callback=btpress,bouncetime=300)
-
-
